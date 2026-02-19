@@ -548,10 +548,10 @@ Compute the skewness between `Poor_Health` for Districts for all the data and fo
 
 **Task 5**
 
-Calculate the interquartile range (IQR) of `Poor_Health` at the Region, District, and Ward level,s and discuss the results as they relate to MAUP.
+Calculate the interquartile range (IQR) of `Poor_Health` at the Region, District, and Ward levels, and discuss the results as they relate to MAUP.
 
 Remember:
 
 -   IQR measures the spread of the middle 50% of values.
 -   Larger IQR → greater inequality or heterogeneity.
--   Smaller IQR → greater smoothing through aggregation
+-   Smaller IQR → greater smoothing through aggregation.
